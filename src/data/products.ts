@@ -44,7 +44,7 @@ export const products: Product[] = [
     price: 2299,
     originalPrice: 3499,
     images: [
-      "https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=800&auto=format&fit=crop"
     ],
     description: "Discover a masterpiece of style with our Meher Embroidered Suit. Designed in a rich teal shade with intricate gold-toned floral highlights around the neckline and borders. Ideal for evening celebrations and festive gatherings.",
@@ -216,7 +216,7 @@ export const products: Product[] = [
     originalPrice: 4999,
     images: [
       "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1610030470298-40b8a1c24d3c?q=80&w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=800&auto=format&fit=crop"
     ],
     description: "Our signature Gulnaar Saree features a striking crimson red shade with gold zari woven details all over. Inspired by the royal drapes of India, this saree brings a touch of royalty and heritage to your wardrobe.",
     sizes: ["One Size"],
@@ -317,7 +317,7 @@ export const products: Product[] = [
     price: 3899,
     originalPrice: 5499,
     images: [
-      "https://images.unsplash.com/photo-1610030470298-40b8a1c24d3c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800&auto=format&fit=crop"
     ],
     description: "Designed for grand celebrations, the Mehrunisa Festive Saree is crafted in premium georgette silk with dense golden zardosi embroidery details. Step into the spotlight and exude true heritage glamour.",
@@ -385,7 +385,7 @@ export const products: Product[] = [
     price: 3299,
     originalPrice: 4299,
     images: [
-      "https://images.unsplash.com/photo-1610030470298-40b8a1c24d3c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800&auto=format&fit=crop"
     ],
     description: "Feel absolutely beautiful in this premium mulberry silk saree with exquisite silver threadwork. Elegant and graceful, the Noorani Saree is a gorgeous choice for festive gatherings, evening parties, and cultural celebrations.",

@@ -67,7 +67,7 @@ export const Home: React.FC = () => {
             <div style={styles.collectionCard} className="collection-hover-card">
               <div style={styles.collectionImgWrapper}>
                 <img
-                  src="https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=800&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=800&auto=format&fit=crop"
                   alt="Elegant Suits Collection"
                   style={styles.collectionImg}
                 />
@@ -325,7 +325,7 @@ export const Home: React.FC = () => {
               <div style={styles.instaOverlay} className="insta-overlay-hover"><span>Instagram</span></div>
             </div>
             <div style={styles.instagramGridItem} className="insta-box">
-              <img src="https://images.unsplash.com/photo-1610030470298-40b8a1c24d3c?q=80&w=600&auto=format&fit=crop" alt="Insta Post 4" style={styles.instaImg} />
+              <img src="https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=600&auto=format&fit=crop" alt="Insta Post 4" style={styles.instaImg} />
               <div style={styles.instaOverlay} className="insta-overlay-hover"><span>Instagram</span></div>
             </div>
             <div style={styles.instagramGridItem} className="insta-box">
