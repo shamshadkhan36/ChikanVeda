@@ -113,8 +113,8 @@ export const products: Product[] = [
     price: 2799,
     originalPrice: 3999,
     images: [
-      "https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608748010899-18f300247112?q=80&w=800&auto=format&fit=crop"
     ],
     description: "A celebration of colors and embroidery, the Aafreen Festive Suit features detailed threadwork and subtle sequin embellishments. Crafted in a rich mustard yellow shade, it brings warmth and luxury to every festive occasion.",
     sizes: ["M", "L", "XL", "XXL"],
@@ -249,7 +249,7 @@ export const products: Product[] = [
     price: 2799,
     originalPrice: 3500,
     images: [
-      "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800&auto=format&fit=crop"
     ],
     description: "A lightweight, ethereal organza saree in a delicate sky blue tone. Detailed with fine hand-guided Chikankari-inspired threadwork and scalloped edges. A perfect blend of modernity and age-old Indian craftsmanship.",

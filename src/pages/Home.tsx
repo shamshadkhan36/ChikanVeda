@@ -317,7 +317,7 @@ export const Home: React.FC = () => {
               <div style={styles.instaOverlay} className="insta-overlay-hover"><span>Instagram</span></div>
             </div>
             <div style={styles.instagramGridItem} className="insta-box">
-              <img src="https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=600&auto=format&fit=crop" alt="Insta Post 2" style={styles.instaImg} />
+              <img src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=600&auto=format&fit=crop" alt="Insta Post 2" style={styles.instaImg} />
               <div style={styles.instaOverlay} className="insta-overlay-hover"><span>Instagram</span></div>
             </div>
             <div style={styles.instagramGridItem} className="insta-box">
