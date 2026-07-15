@@ -44,7 +44,7 @@ export const products: Product[] = [
     price: 2299,
     originalPrice: 3499,
     images: [
-      "https://images.unsplash.com/photo-1605697040389-16d0a0ee3e89?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=800&auto=format&fit=crop"
     ],
     description: "Discover a masterpiece of style with our Meher Embroidered Suit. Designed in a rich teal shade with intricate gold-toned floral highlights around the neckline and borders. Ideal for evening celebrations and festive gatherings.",

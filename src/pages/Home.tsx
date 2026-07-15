@@ -67,7 +67,7 @@ export const Home: React.FC = () => {
             <div style={styles.collectionCard} className="collection-hover-card">
               <div style={styles.collectionImgWrapper}>
                 <img
-                  src="https://images.unsplash.com/photo-1605697040389-16d0a0ee3e89?q=80&w=800&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=800&auto=format&fit=crop"
                   alt="Elegant Suits Collection"
                   style={styles.collectionImg}
                 />
